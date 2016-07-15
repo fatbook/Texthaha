@@ -17,7 +17,11 @@
         android:layout_height="wrap_content"
         android:text="Hello World!" />
     <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="World!" />
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="World!" />
+        android:text="World3333" />
 </LinearLayout>
